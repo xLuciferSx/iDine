@@ -18,6 +18,7 @@
 		1F769E6B24B72F08004570BB /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E6924B72F08004570BB /* Order.swift */; };
 		1F769E6D24B72F33004570BB /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 1F769E6C24B72F33004570BB /* menu.json */; };
 		1F769E6F24B75E9C004570BB /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E6E24B75E9B004570BB /* ItemRow.swift */; };
+		1F769E7124B764AF004570BB /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E7024B764AF004570BB /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		1F769E6924B72F08004570BB /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		1F769E6C24B72F33004570BB /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		1F769E6E24B75E9B004570BB /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		1F769E7024B764AF004570BB /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				1F769E6024B72E9E004570BB /* Info.plist */,
 				1F769E5A24B72E9E004570BB /* Preview Content */,
 				1F769E6E24B75E9B004570BB /* ItemRow.swift */,
+				1F769E7024B764AF004570BB /* ItemDetail.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				1F769E5524B72E9D004570BB /* SceneDelegate.swift in Sources */,
 				1F769E6F24B75E9C004570BB /* ItemRow.swift in Sources */,
 				1F769E5724B72E9D004570BB /* ContentView.swift in Sources */,
+				1F769E7124B764AF004570BB /* ItemDetail.swift in Sources */,
 				1F769E6724B72EF1004570BB /* Helper.swift in Sources */,
 				1F769E6A24B72F08004570BB /* Menu.swift in Sources */,
 			);
