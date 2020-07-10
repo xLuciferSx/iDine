@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1F5D828424B8A74A00C38EFD /* Checkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5D828324B8A74A00C38EFD /* Checkout.swift */; };
+		1F5D828424B8A74A00C38EFD /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5D828324B8A74A00C38EFD /* CheckoutView.swift */; };
 		1F769E5324B72E9D004570BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E5224B72E9D004570BB /* AppDelegate.swift */; };
 		1F769E5524B72E9D004570BB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E5424B72E9D004570BB /* SceneDelegate.swift */; };
 		1F769E5724B72E9D004570BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F769E5624B72E9D004570BB /* ContentView.swift */; };
@@ -25,7 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1F5D828324B8A74A00C38EFD /* Checkout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkout.swift; sourceTree = "<group>"; };
+		1F5D828324B8A74A00C38EFD /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		1F769E4F24B72E9D004570BB /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F769E5224B72E9D004570BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F769E5424B72E9D004570BB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 				1F769E7024B764AF004570BB /* ItemDetail.swift */,
 				1F769E7224B76B33004570BB /* OrderView.swift */,
 				1F769E7424B76CA1004570BB /* AppView.swift */,
-				1F5D828324B8A74A00C38EFD /* Checkout.swift */,
+				1F5D828324B8A74A00C38EFD /* CheckoutView.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -184,7 +184,7 @@
 				1F769E6724B72EF1004570BB /* Helper.swift in Sources */,
 				1F769E7524B76CA1004570BB /* AppView.swift in Sources */,
 				1F769E6A24B72F08004570BB /* Menu.swift in Sources */,
-				1F5D828424B8A74A00C38EFD /* Checkout.swift in Sources */,
+				1F5D828424B8A74A00C38EFD /* CheckoutView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
